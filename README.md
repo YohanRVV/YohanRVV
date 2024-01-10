@@ -17,8 +17,8 @@ Con un año de experiencia en el mundo freelance del desarrollo web, he encontra
 Con un nivel avanzado de inglés, me siento cómodo trabajando en proyectos internacionales y colaborando con equipos de diversas culturas.
 
 ### 🌐 Pueden ir a mi portafolio en donde tengo mis proyectos más destacados:
-En el portafolio tengo 3 proyectos donde utilicé principalmente PHP y jquery, además de wordpress y bootstrap. Además de otros proyectos donde utilicé React.
--  Sitio Web: [[portfolio](https://portfolioyohanvelasquez.netlify.app/)]
+En el portafolio tengo 3 proyectos donde utilicé principalmente **PHP**, **JQuery**, **WordPress** y **Bootstrap**. Además de otros proyectos donde utilicé **React**.
+ [[portfolio](https://portfolioyohanvelasquez.netlify.app/)]
 
 ### 📫 Cómo Contactarme
 Siempre estoy abierto a nuevas oportunidades y colaboraciones. ¡No dudes en contactarme!
