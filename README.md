@@ -16,10 +16,13 @@ Con un año de experiencia en el mundo freelance del desarrollo web, he encontra
 ### 🌍 Experiencia Internacional
 Con un nivel avanzado de inglés, me siento cómodo trabajando en proyectos internacionales y colaborando con equipos de diversas culturas.
 
+### 🌐 Pueden ir a mi portafolio en donde tengo mis proyectos más destacados:
+-  Sitio Web: [[portfolio](https://portfolioyohanvelasquez.netlify.app/)]
+
 ### 📫 Cómo Contactarme
 Siempre estoy abierto a nuevas oportunidades y colaboraciones. ¡No dudes en contactarme!
 
 - 📧 Email: [yohan.0055@gmail.com](mailto:yohan.0055@gmail.com)
-- 🌐 Sitio Web: [[portfolio](https://portfolioyohanvelasquez.netlify.app/)]
+
 - 🔗 LinkedIn: [[Yohan Velásquez](https://www.linkedin.com/in/yohanrvv18/)]
 
