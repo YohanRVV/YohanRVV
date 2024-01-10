@@ -20,6 +20,6 @@ Con un nivel avanzado de inglés, me siento cómodo trabajando en proyectos inte
 Siempre estoy abierto a nuevas oportunidades y colaboraciones. ¡No dudes en contactarme!
 
 - 📧 Email: [yohan.0055@gmail.com](mailto:yohan.0055@gmail.com)
-- 🌐 Sitio Web: [[tu-sitio-web.com](https://portfolioyohanvelasquez.netlify.app/)]
+- 🌐 Sitio Web: [[portfolio](https://portfolioyohanvelasquez.netlify.app/)]
 - 🔗 LinkedIn: [[Yohan Velásquez](https://www.linkedin.com/in/yohanrvv18/)]
 
