@@ -5,7 +5,7 @@
 ## Bienvenido a Mi Perfil de GitHub
 
 ### 🌐 Sobre Mí
-Con un año de experiencia en el mundo freelance del desarrollo web, he encontrado mi pasión en crear soluciones digitales que no solo son funcionales sino también innovadoras. Mi viaje en este campo me ha permitido adquirir una amplia gama de habilidades técnicas, que aplico para llevar las ideas desde el concepto hasta la realidad.
+Con un año de experiencia en el mundo freelance del desarrollo web, he encontrado mi pasión en crear soluciones digitales que no solo son funcionales sino también innovadoras. Me especializo en el uso de **PHP para el backend** y **React para el frontend**, una combinación poderosa que me permite construir aplicaciones web completas y dinámicas. Mi viaje en este campo me ha permitido adquirir una amplia gama de habilidades técnicas, aplicando estas especialidades para llevar las ideas desde el concepto hasta la realidad.
 
 ### 💻 Habilidades Técnicas
 - **Lenguajes de Programación**: HTML, CSS, Javascript, Python, PHP.
