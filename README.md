@@ -18,7 +18,8 @@ Con un nivel avanzado de inglés, me siento cómodo trabajando en proyectos inte
 
 ### 🌐 Pueden ir a mi portafolio en donde tengo mis proyectos más destacados:
 En el portafolio tengo 3 proyectos donde utilicé principalmente **PHP**, **JQuery**, **WordPress** y **Bootstrap**. Además de otros proyectos donde utilicé **React**.
- [[portfolio](https://portfolioyohanvelasquez.netlify.app/)]
+
+- [[portfolio](https://portfolioyohanvelasquez.netlify.app/)]
 
 ### 📫 Cómo Contactarme
 Siempre estoy abierto a nuevas oportunidades y colaboraciones. ¡No dudes en contactarme!
